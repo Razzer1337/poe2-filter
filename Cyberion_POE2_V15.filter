@@ -196,7 +196,7 @@ Show # TIER 0 - Mirror
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	CustomAlertSound "gigguk.mp3" 300
+	PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 	
@@ -207,7 +207,7 @@ Show # TIER 0
 	SetTextColor 255 0 0 255
 	SetBorderColor 255 0 0 255
 	SetBackgroundColor 255 255 255 255
-	CustomAlertSound "rezero.mp3" 300
+	PlayAlertSound 6 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 	
